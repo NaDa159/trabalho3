@@ -1,0 +1,65 @@
+.navi-item{
+
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    color:black;
+    font-size: 7px;
+
+}
+
+h1{
+
+    font-family: 'Preahvihear', sans-serif;
+    text-align: center;
+    color:black;
+    font-size: 7px;
+}
+
+h2{
+
+    font-family: 'Preahvihear', sans-serif;
+    text-align: center;
+    color:black;
+    font-size: 7px;   
+}
+
+p{
+    font-family: 'Preahvihear', sans-serif;
+    text-align: center;
+    color:black;
+    font-size: 14px;
+}
+img{
+    height:50%;
+    width:50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto 
+}
+form{
+    text-align: center;
+}
+input{
+    font-family: 'Preahvihear', sans-serif;
+    border-radius:20px;
+    border-color: black;
+    border-style: solid;
+    padding:10px;
+    padding: 12px 20px;
+    margin: 8px 0 0 0;
+    border: 2px solid black;
+}
+table{
+    border: 2px solid black;
+    padding: 10px;
+    width: 75%;
+    table-layout: fixed;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.titulo{
+    background-color: gray;
+    border-color: black;
+    border-radius: 25px;
+}
